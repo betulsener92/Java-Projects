@@ -1,4 +1,4 @@
-package Proje01;
+package Okul_Projesi;
 
 public class Ogrenci {
     private String name;

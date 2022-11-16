@@ -1,4 +1,4 @@
-package Proje01;
+package Okul_Projesi;
 
 import java.util.List;
 import java.util.Scanner;

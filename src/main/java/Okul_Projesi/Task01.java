@@ -1,4 +1,4 @@
-package Proje01;
+package Okul_Projesi;
 
 public class Task01 {
     //  1- fieldları ad, soyad, yas olan bir Ogrenci sınıfı tanımlayınız.

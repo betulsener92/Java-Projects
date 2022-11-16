@@ -1,4 +1,4 @@
-package Proje01;
+package Okul_Projesi;
 
 import java.util.ArrayList;
 import java.util.List;
