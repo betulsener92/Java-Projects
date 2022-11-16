@@ -1,4 +1,4 @@
-package Proje02;
+package ATM_Projesi;
 
 
 public class GirisEkranı {

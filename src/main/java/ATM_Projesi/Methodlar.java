@@ -1,4 +1,4 @@
-package Proje02;
+package ATM_Projesi;
 
 import java.util.HashMap;
 import java.util.Scanner;
