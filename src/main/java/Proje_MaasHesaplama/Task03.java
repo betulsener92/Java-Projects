@@ -1,6 +1,6 @@
 package Proje_MaasHesaplama;
 
-public class Task {
+public class Task03 {
     /*
    Net maaş hesaplayan bir kod yazınız.(Interface kullanınız)
    Maaş kriterleri: Brüt maaş belirle.
