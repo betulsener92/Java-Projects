@@ -60,5 +60,5 @@ public class Task_Ikinci {
      * 			 Yüklediği tutarı, toplam parasına ekleyelim ve gösterelim.
      * 			 Başka işlem yapmak isteyip istemediğini soralım, isterse yaptıralım, yoksa çıkış işlemi gerçekleştirelim.
      *
-     * *************************************************************************************************/
+     * ************************************************************************************************/
 }

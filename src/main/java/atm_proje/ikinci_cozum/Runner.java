@@ -26,6 +26,7 @@ public class Runner {
         toplamParaMiktarlari.put(98765432, 5.0f);
         toplamParaMiktarlari.put(55554444, 255.0f);
         girisEkrani();
+
     }
     private static void girisEkrani() {
         System.out.println("Musteri numaranizi giriniz : ");

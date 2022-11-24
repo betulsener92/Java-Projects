@@ -1,7 +1,5 @@
 package atm_proje.ilk_cozum;
 
-import ATM_Projesi.Methodlar;
-
 public class GirisEkrani {
     public static void main(String[] args) {
 
