@@ -2,7 +2,7 @@ package alisveris_programi;
 
 public class Task {
             /*
-            ##  ALİSVERİS PROGRAMİ  ##
+            ###  ALİSVERİS PROGRAMİ  ###
         1. Manav-sarkuteri-market urunlerinin satildigi bir market tasarlayin
         ++2. Stok numrasi ile urunleri tanimlayiniz.
         ++3. Urun girisi yapiniz
